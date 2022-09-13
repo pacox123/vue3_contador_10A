@@ -14,7 +14,7 @@
         this.contador--;
       },
       resetear(){
-        this.contador = 10;
+        this.contador = 500;
       }
     }
   };
